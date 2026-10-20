@@ -1,0 +1,14 @@
+{
+  "DESIGN_NAME": "hft_core",
+  "VERILOG_FILES": [
+    "dir::../../rtl/gl/hft_core.v"
+  ],
+  "CLOCK_PORT": "clk_i",
+  "CLOCK_PERIOD": 10.0,
+  "FP_SIZING": "relative",
+  "FP_CORE_UTIL": 45,
+  "PL_TARGET_DENSITY_PCT": 50,
+  "GRT_ADJUSTMENT": 0.3,
+  "RUN_ANTENNA_REPAIR": true,
+  "RUN_KLAYOUT_DRC": false
+}

@@ -1,0 +1,15 @@
+# Build artifacts
+tb/obj_dir/
+openlane/*/runs/
+*.vcd
+*.log
+*.tmp
+*.aig
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Scenarios / local CSVs
+tb/*.csv
